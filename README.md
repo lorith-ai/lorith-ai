@@ -60,8 +60,8 @@ Aspiring to master:
 ## 📚 Certifications I'm Targeting
 
 - [ ] 🧠 *IBM Python for Data Science*
-- [x] 🔎 *DeepLearning.AI TensorFlow Developer*
-- [ ] ✅ *Python Institute Certifications*
+- [ ] 🔎 *DeepLearning.AI TensorFlow Developer*
+- [x] ✅ *Python Institute Certifications*
 - [ ] 🚀 *Meta Front-End Developer*
 - [ ] 🤖 *Prompt Engineering Specializations*
 
