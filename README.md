@@ -63,7 +63,7 @@ Aspiring to master:
 - [ ] 🔎 *DeepLearning.AI TensorFlow Developer*
 - [x] ✅ *Python Institute Certifications*
 - [ ] 🚀 *Meta Front-End Developer*
-- [ ] 🤖 *Prompt Engineering Specializations*
+- [x] 🤖 *Prompt Engineering Specializations*
 
 ---
 
